@@ -31,6 +31,6 @@ nodemon app.js
 ```
 6. 此時終端機出現以下字樣表示伺服器與資料庫已啟動並成功連結
 ```
-Resaurant Web is running on http://localhost:3000
+Express is listening on http://localhost:3000
 ```
 7. 在瀏覽器輸入http://localhost:3000 即可開啟專案
